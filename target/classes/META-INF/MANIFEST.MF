@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Marcelos
+Build-Jdk: 22.0.2
+Implementation-Title: Spring Boot Blank Project (from https://github.com
+ /making/spring-boot-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cep
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.cep.apicep.App
+Created-By: Maven Integration for Eclipse
+
